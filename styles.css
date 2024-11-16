@@ -19,7 +19,10 @@
     padding-left: 5px;
 }
 .accordion{
-    margin: 8rem;
+    margin-top: 1rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    margin-bottom: 2rem;
 }
 .craft{
     border: 1px solid black;
@@ -33,6 +36,22 @@
     border: 1px solid black;
 }
 .militiaA{
-    padding: 2rem;
+    padding: 1rem;
     border: 1px solid black;
+}
+.craftA{
+    border: 1px solid black;
+    margin: 3rem;
+    padding: 1rem;
+}
+.sched{
+    border: 2px solid black;
+    margin: 2rem;
+    padding: 1rem;
+}
+.schedA{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+
 }
